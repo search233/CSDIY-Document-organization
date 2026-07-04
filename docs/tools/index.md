@@ -1,4 +1,4 @@
 ---
-title: # TOOLS
+title: TOOLS
 order: 1
 ---
